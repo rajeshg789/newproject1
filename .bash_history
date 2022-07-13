@@ -33,6 +33,7 @@ ls -lrt
 git commit  -m  "initial version" 
 git --version
 touch
+clear
 git --touch
 rm
 touch 1.jpg
